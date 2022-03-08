@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="contrastMode" value="true" />
-    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="pristineConfig" value="false" />
@@ -9,6 +8,6 @@
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="305443b1:1773951d4c1:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.13.0" />
   </component>
 </application>
